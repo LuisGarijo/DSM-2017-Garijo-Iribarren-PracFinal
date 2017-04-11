@@ -1,0 +1,9 @@
+
+GridFS Using Mongoose – NodeJS
+By manish in Express, MongoDB, Mongoose
+ December 14, 2014
+In this blog post we will see how to integrate GridFS with mongoose.
+
+
+Mongodb provides us with a very efficient way to store files directly in db rather than in file system. So basically what this means is, suppose you need to store an image file or an audio or video file you can directly store that in mongodb itself.
+More details can be found here
